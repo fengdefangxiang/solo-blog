@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在魔法纪录里抽到小圆啦！](https://www.zhengliwei.top:8080/articles/2020/10/17/1602899752577.html)
 * [算法题练习 -- 矩阵的最小路径和](https://www.zhengliwei.top:8080/articles/2020/10/11/1602411286710.html)
 * [算法题练习 -- 判断单链表中是否有环](https://www.zhengliwei.top:8080/articles/2020/10/09/1602241965777.html)
 * [HTTPS详解](https://www.zhengliwei.top:8080/articles/2020/10/01/1601537664244.html)
