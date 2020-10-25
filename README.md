@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [自己动手实现跳表](https://www.zhengliwei.top:8080/articles/2020/10/24/1603532984057.html)
 * [我在魔法纪录里抽到小圆啦！](https://www.zhengliwei.top:8080/articles/2020/10/17/1602899752577.html)
 * [go语言中for循环的并发安全问题](https://www.zhengliwei.top:8080/articles/2020/10/17/1602897966275.html)
 * [算法题练习 -- 矩阵的最小路径和](https://www.zhengliwei.top:8080/articles/2020/10/11/1602411286710.html)
