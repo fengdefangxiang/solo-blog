@@ -10,9 +10,11 @@
 
 ### 最新
 
+* [大意没闪系列一：for循环中直接return](https://www.zhengliwei.top:8080/articles/2020/12/25/1608879070079.html)
 * [ThreadLocal在session管理中的应用与原理](https://www.zhengliwei.top:8080/articles/2020/11/07/1604747045290.html)
 * [缓存详解：穿透型缓存与旁路型缓存，缓存穿透，雪崩与击穿](https://www.zhengliwei.top:8080/articles/2020/10/30/1604067136353.html)
 * [自己动手实现跳表](https://www.zhengliwei.top:8080/articles/2020/10/24/1603532984057.html)
+* [我在魔法纪录里抽到小圆啦！](https://www.zhengliwei.top:8080/articles/2020/10/17/1602899752577.html)
 * [go语言中for循环的并发安全问题](https://www.zhengliwei.top:8080/articles/2020/10/17/1602897966275.html)
 * [算法题练习 -- 矩阵的最小路径和](https://www.zhengliwei.top:8080/articles/2020/10/11/1602411286710.html)
 * [算法题练习 -- 判断单链表中是否有环](https://www.zhengliwei.top:8080/articles/2020/10/09/1602241965777.html)
